@@ -1,6 +1,4 @@
-# Normally Closed Public License
-
-Development Draft
+# Normally Closed Public License 1.0.0-pre.1
 
 ## Acceptance
 
