@@ -6,7 +6,7 @@ Development Draft
 
 To receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software against any rule you can't or won't follow.
 
-## Prohibited Uses
+## Prohibited Purposes
 
 1.  {You may not use this software for ....}
 
@@ -14,7 +14,7 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ## Copyright
 
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, except [Prohibited Uses](#prohibited-uses).
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Notices
 
@@ -26,7 +26,7 @@ If anyone notifies you in writing that you have broken [Notices](#notices), you 
 
 ## Patent
 
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, except [Prohibited Uses](#prohibited-uses).
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Reliability
 
