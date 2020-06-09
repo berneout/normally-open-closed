@@ -6,6 +6,10 @@ The [Normally Open](./open.md) license allows developers to prohibit use for spe
 
 The [Normally Closed](./clsed.md) license allows developers to prohibit use for specific purposes, prohibiting all others.
 
+## How to Use
+
+Copy [`open.md`](./open.md) or [`closed.md`](./closed.md) into your project's `LICENSE` file or header comments.  Fill in Prohibited Purposes or Permitted Purposes to set the rules for use of your work.
+
 ## Lineage
 
 These licenses are derived from [The Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), with some improvements from [Round Robin 1.0.0](https://roundrobinlicense.com/1.0.0).
