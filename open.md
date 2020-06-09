@@ -1,6 +1,6 @@
-# Blue Oak Model License
+# Normally Open Public License
 
-Version 1.0.0
+Development Draft
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://blueoakcouncil.org/license/1.0.0>.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://TODO>.
 
 ## Excuse
 
