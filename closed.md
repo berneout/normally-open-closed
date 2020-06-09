@@ -22,7 +22,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Excuse
 
-If anyone notifies you in writing that you have broken [Notices](#notices), you can keep your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
+You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Patent
 
