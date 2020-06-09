@@ -14,7 +14,7 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ## Copyright
 
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
+Each contributor licenses you to do everything with this software that would otherwise infringe their copyright in it, except for [Prohibited Purposes](#prohibited-purposes).
 
 ## Notices
 
