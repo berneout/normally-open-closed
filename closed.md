@@ -2,6 +2,10 @@
 
 Development Draft
 
+## Summary
+
+Everything not permitted is prohibited.
+
 ## Acceptance
 
 To receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software against any rule you can't or won't follow.
