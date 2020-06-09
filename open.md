@@ -2,10 +2,6 @@
 
 Development Draft
 
-## Purpose
-
-This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability.
-
 ## Acceptance
 
 In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
