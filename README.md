@@ -1,5 +1,11 @@
 # Normally Open and Normally Closed Licenses
 
+broad template licenses for software that allow or prohibit use for specific purposes
+
+The [Normally Open](./open.md) license allows developers to prohibit use for specific purposes, allowing all others.
+
+The [Normally Closed](./clsed.md) license allows developers to prohibit use for specific purposes, prohibiting all others.
+
 ## Permission
 
 Each contributor licenses you to do everything with these license text that would otherwise infringe that contributor's copyright in it.
