@@ -8,9 +8,9 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ## Permitted Purposes
 
-1.  {You may use this software for ....}
+1.  {You may use this software for....}
 
-2.  {You may use this software to ....}
+2.  {You may use this software to....}
 
 ## Copyright
 
