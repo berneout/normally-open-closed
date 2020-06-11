@@ -2,9 +2,9 @@
 
 template for software licenses that permit or prohibit use for specific purposes
 
-The [Normally Open](./open.md) license allows developers to prohibit use for specific purposes, permitting all others.  Everything not prohibited is permitted.
+[Normally Open](./open.md) helps developers to prohibit use for specific purposes, permitting all others.  Everything not prohibited is permitted.
 
-The [Normally Closed](./clsed.md) license allows developers to permit use for specific purposes, prohibiting all others.  Everything not permitted is prohibited.
+[Normally Closed](./clsed.md) helps developers to permit use for specific purposes, prohibiting all others.  Everything not permitted is prohibited.
 
 ## How to Use
 
