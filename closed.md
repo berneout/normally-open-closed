@@ -2,6 +2,8 @@
 
 Development Draft
 
+Everything not permitted is prohibited.
+
 ## Permitted Purposes
 
 1.  {You may use this software for....}
