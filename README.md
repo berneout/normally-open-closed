@@ -10,7 +10,7 @@ template for software licenses that permit or prohibit use for specific purposes
 
 Copy [`open.md`](./open.md) or [`closed.md`](./closed.md) into your project's `LICENSE` file or header comments.  Fill in [Prohibited Purposes](./open.md#Prohibited-Purposes) or [Permitted Purposes](./closed.md#Permitted-Purposes) to set the rules for use of your work.
 
-We would _great appreciate_ issues on the [GitHub repository for these licenses](https://github.com/berneout/normally-open-closed) with a note that you're using one of the licenses, and how.  In the future, we may add a showcase or other list of representative projects to the repository or a dedicated website.
+We would _greatly appreciate_ issues on the [GitHub repository for these licenses](https://github.com/berneout/normally-open-closed) with a note that you're using one of the licenses, and how.  In the future, we may add a showcase or other list of representative projects to the repository or a dedicated website.
 
 ## Lineage
 
