@@ -1,4 +1,4 @@
-# Normally Open Public License
+# Normally Open Public License 1.1.0
 
 Development Draft
 
