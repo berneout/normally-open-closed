@@ -1,6 +1,6 @@
 # Normally Open and Normally Closed Licenses
 
-template for software licenses that permit or prohibit use for specific purposes
+template software licenses that permit or prohibit use for specific purposes
 
 [Normally Open](./open.md) helps developers to prohibit use for specific purposes, permitting all others.  Everything not prohibited is permitted.
 
