@@ -1,6 +1,4 @@
-# Normally Closed Public License
-
-Development Draft
+# Normally Closed Public License 1.1.1
 
 Everything not permitted is prohibited.
 

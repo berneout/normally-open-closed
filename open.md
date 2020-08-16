@@ -1,6 +1,4 @@
-# Normally Open Public License
-
-Development Draft
+# Normally Open Public License 1.1.1
 
 Everything not prohibited is permitted.
 
