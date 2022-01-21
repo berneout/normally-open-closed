@@ -2,13 +2,13 @@
 
 template software licenses that permit or prohibit use for specific purposes
 
-[Normally Open](./open.md) helps developers to prohibit use for specific purposes, permitting all others.  Everything not prohibited is permitted.
+[Normally Open](./normally-open.md) helps developers to prohibit use for specific purposes, permitting all others.  Everything not prohibited is permitted.
 
-[Normally Closed](./closed.md) helps developers to permit use for specific purposes, prohibiting all others.  Everything not permitted is prohibited.
+[Normally Closed](./normally-closed.md) helps developers to permit use for specific purposes, prohibiting all others.  Everything not permitted is prohibited.
 
 ## How to Use
 
-Copy [`open.md`](./open.md) or [`closed.md`](./closed.md) into your project's `LICENSE` file or header comments.  Fill in [Prohibited Purposes](./open.md#Prohibited-Purposes) or [Permitted Purposes](./closed.md#Permitted-Purposes) to set the rules for use of your work.
+Copy [`normally-open.md`](./normally-open.md) or [`normally-closed.md`](./normally-closed.md) into your project's `LICENSE` file or header comments.  Fill in [Prohibited Purposes](./normally-open.md#Prohibited-Purposes) or [Permitted Purposes](./normally-closed.md#Permitted-Purposes) to set the rules for use of your work.
 
 We would _greatly appreciate_ issues on the [GitHub repository for these licenses](https://github.com/berneout/normally-open-closed) with a note that you're using one of the licenses, and how.  In the future, we may add a showcase or other list of representative projects to the repository or a dedicated website.
 
